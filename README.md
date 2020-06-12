@@ -1,3 +1,3 @@
 # learn-figma
-## pen tool
+## learn pen tool
 [bezier game](https://bezier.method.ac/)
